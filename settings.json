@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "ZAIRENMC.aternos.me",
+    "ip": "buri.aternos.host:55834",
     "port": 55834,
     "version": "",
     "try-creative": false
