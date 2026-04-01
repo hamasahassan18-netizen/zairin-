@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "zairin_bot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "ZAIRENMC.aternos.me:55834",
-    "port": 55834,
+    "port":55834,
     "version": "",
     "try-creative": false
   },
