@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "zairin_bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "ZAIRENMC.aternos.me",
